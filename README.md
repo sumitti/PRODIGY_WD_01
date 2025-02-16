@@ -15,7 +15,7 @@ This is a **responsive landing page** for VRSPACE with the theme **"Feel The Uni
 - ⚙️ **JavaScript** – Add interactivity
 
 ## 🚀 Live Demo  
-👉 [**View Live Demo**](https://sumitti.github.io/PRODIGY_WD_01/.com) 🌐    
+👉 [**View Live Demo**](https://sumitti.github.io/PRODIGY_WD_01) 🌐    
 
 ## 🚀 Features  
 - ✅ Fully **Responsive** design for all devices 📱💻  
